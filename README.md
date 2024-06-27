@@ -24,4 +24,4 @@ This will generate a SELF file, which can be loaded on the PS3.
 
 Take the compiled SELF file and load it onto your PS3 using PS3Load.
 
-:x
+![](img/cover.png)
