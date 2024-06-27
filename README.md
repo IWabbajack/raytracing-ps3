@@ -2,6 +2,8 @@
 
 This project is a PlayStation 3 (PS3) port of the well-known "Raytracing in one weekend".
 
+**NOTE: This is very much a work in progress. It needs a lot more work and refinement!**
+
 ## Prerequisites
 
 This project relies on the PS3's development toolchain, as well as PS3Load to deploy generated executables. 
